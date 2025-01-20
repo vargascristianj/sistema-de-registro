@@ -3,3 +3,5 @@
 - Autor: Cristian V.
 
 Para ejecutar el sistema se debe poner: ```npm install react```
+
+- Ser claro -
